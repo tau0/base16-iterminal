@@ -1,7 +1,7 @@
 base16-iterminal
 ================
 
-I terminal theme which uses base16 colors.
+Theme for native terminal in OSX, tested on maverick.
 
 ![Screenshot](screenshot-base16.png "Screenshot")
 
